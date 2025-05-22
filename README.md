@@ -41,7 +41,7 @@ g++ hashTable.cpp -o hashTable
 ```
 Ulangi langkah ini untuk file lainnya sesuai kebutuhan.
 
-👤 Pembuat
+## 👤 Pembuat
 Kelompok 4
 
 ## 📬 Kontak
